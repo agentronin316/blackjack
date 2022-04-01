@@ -1,5 +1,7 @@
 package com.games.blackjack;
 
-class Deck {
+import java.util.Set;
 
+class Deck {
+    private Set<Card> cards;
 }
